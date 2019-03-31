@@ -18,7 +18,7 @@ section .box{
     margin-bottom:50px;
     border-radius: 31px;
     background-color:#ffffff;
-
+    height: 350px;
 }
 img{
     width: 200px;
